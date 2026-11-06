@@ -20,15 +20,16 @@ With **Jenoxa**, a recruiter defines campaign criteria, receives CVs, and review
 | [myBank microservices](https://github.com/Jabour-Salahddine/myBank-Microservices) | Trace a customer request across banking services, gateway resilience, identity checks, and observability configuration. |
 | [Employee Management API](https://github.com/Jabour-Salahddine/Spring-Boot-Employee-Management-Complete-REST-API) | Walk through JWT authentication, employee operations, role-restricted deletion, and a layered Spring Boot design. |
 | [Python Job Finder](https://github.com/Jabour-Salahddine/Web-Scraping-Intro) | Turn HTML job listings into a readable shortlist using date filters, skill exclusions, and local text exports. |
+| [Hotel Cancellation Predictor](https://github.com/Jabour-Salahddine/MLOPS-HotelReservation) | Follow booking data through feature selection and LightGBM training, inspect MLflow artifacts, and explore the Flask interface and Jenkins delivery stages. |
 
 ## What I build with
 
 | Domain | Tools I use | Where they come together |
 | --- | --- | --- |
-| AI and machine learning | Python, LangGraph, RAG, Qdrant, Surprise SVD, MLflow, ZenML | LearnLab, BidConnect, movie recommendations |
-| APIs and services | FastAPI, Java, Spring Boot, Spring Cloud, JWT, Keycloak | Jenoxa, LearnLab, myBank, Employee API |
-| Data and asynchronous work | PostgreSQL, MySQL, Redis, Celery, Kafka, MinIO | Jenoxa, recommendation pipeline, BidConnect |
-| Interfaces and delivery | Next.js, React, Docker, Prometheus, Grafana, OpenTelemetry | Jenoxa, LearnLab, myBank |
+| AI and machine learning | Python, LangGraph, RAG, Qdrant, Surprise SVD, MLflow, ZenML, scikit-learn, LightGBM, SMOTE | LearnLab, BidConnect, movie recommendations, Hotel Cancellation Predictor |
+| APIs and services | FastAPI, Java, Spring Boot, Spring Cloud, JWT, Keycloak, Flask | Jenoxa, LearnLab, myBank, Employee API, Hotel Cancellation Predictor |
+| Data and asynchronous work | PostgreSQL, MySQL, Redis, Celery, Kafka, MinIO, Amazon S3 | Jenoxa, recommendation pipeline, BidConnect, Hotel Cancellation Predictor |
+| Interfaces and delivery | Next.js, React, Docker, Prometheus, Grafana, OpenTelemetry, Jenkins, Amazon ECR/ECS | Jenoxa, LearnLab, myBank, Hotel Cancellation Predictor |
 
 ## Looking for a PFE internship — January 2027
 
